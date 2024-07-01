@@ -10,7 +10,7 @@ ___
 ### Gradle
 ```groovy
 dependencies {
-    testImplementation "org.jam2in:arcus-test-container:1.0.0-SNAPSHOT"
+    testImplementation "org.jam2in:arcus-test-container:0.0.1-SNAPSHOT"
 }
 ```
 
@@ -19,7 +19,7 @@ dependencies {
 <dependency>
     <groupId>org.jam2in</groupId>
     <artifactId>arcus-test-container</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <scope>test</scope>
 </dependency>
 ```
